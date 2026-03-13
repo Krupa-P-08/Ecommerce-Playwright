@@ -63,7 +63,7 @@ flipkart-playwright-framework
 
 ▶️ How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/flipkart-playwright-framework.git
+git clone https://github.com/Krupa-P-08/Ecomeerce-Playwright.git
 2️⃣ Navigate to the project
 cd flipkart-playwright-framework
 3️⃣ Install Playwright browsers
